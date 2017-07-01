@@ -1,6 +1,6 @@
 # An Introduction to Text Analysis with DH Box
 
-This tutorial will show you how to get started with text analysis, using nothing but a web browser. We'll be using [http://dhbox.org](DH Box), a Digital Humanities cloud workstation, as our complete software stack. This tutorial assumes no prior knowledge of text analysis, digital humanities, or computer programming. 
+This tutorial will show you how to get started with text analysis, using nothing but a web browser. We'll be using [DH Box](http://dhbox.org), a Digital Humanities cloud workstation, as our complete software stack. This tutorial assumes no prior knowledge of text analysis, digital humanities, or computer programming. 
 
 1. Navigate to [http://dhbox.org](dhbox.org) in your web browser. Click "sign up" in the upper right corner. Enter a username, password, and your email address. Take note of these so that you can use them later. Click "launch." 
 
